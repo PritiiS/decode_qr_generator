@@ -1,0 +1,1 @@
+# decode_qr_generator
